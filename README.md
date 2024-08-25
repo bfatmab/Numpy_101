@@ -1,2 +1,3 @@
 # Numpy_101
-There are features of the NumPy library, notes, and a set of NumPy exercises.(en)  ,Numpy kütühanesine ait özellikler ,notlat ve bir takım numpy egzersizleri bulunmaktadır.(tr)
+NumPy kütüphanesinin temel özelliklerini ve kullanımını öğrenmeniz için notlar ve egzersizlerden oluşmaktadır.(tr)
+Includes notes and exercises to help you learn the basic features and usage of the NumPy library.(en)
